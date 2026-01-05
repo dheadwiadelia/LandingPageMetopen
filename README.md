@@ -71,17 +71,16 @@ Toolkit ini telah diuji dan valid untuk struktur data berikut:
 ## 📸 Screenshots (Tangkapan Layar)
 
 ### 1. Antarmuka GUI & Terminal
-*(Masukkan screenshot terminal Anda yang ada ASCII Art di sini)*
 ![Terminal Interface](https://github.com/user-attachments/assets/2852153c-e233-4dac-809b-8ecb7ec1df52)
 
 
 ### 2. Hasil Segmentasi Pelanggan (RFM)
-*(Masukkan screenshot grafik scatter plot OnlineRetail.csv)*
-![Customer Segmentation]()
+![Customer Segmentation](https://github.com/user-attachments/assets/7380ec1c-1d49-491f-9557-9005f71def4c)
 
 ### 3. Hasil Segmentasi Iklan (Marketing)
 *(Masukkan screenshot grafik scatter plot final_shop_6modata.csv)*
-![Ads Performance]()
+![Ads Performance](https://github.com/user-attachments/assets/a2e02f05-90a3-4c09-8b2e-c5410f8bd170)
+
 
 ---
 
