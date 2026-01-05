@@ -93,3 +93,25 @@ universal-clustering-toolkit/
 ├── main.py                 # Source code utama (Toolkit)
 ├── requirements.txt        # Daftar library python
 └── README.md               # Dokumentasi Proyek
+
+## 👥 Authors (Tim Pengembang)
+
+Proyek ini dikembangkan oleh **Kelompok AI-15** sebagai bagian dari tugas akhir mata kuliah *Artificial Intelligence & Data Science*.
+
+| Nama Anggota | NIM | Peran Utama | Link Profil |
+| :--- | :--- | :--- | :--- |
+| **[Nama Anda]** | [NIM Anda] | **Lead Developer** <br> *(System Architecture & Python Logic)* | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/username-anda) |
+| **[Nama Teman 1]** | [NIM Teman 1] | **Data Analyst** <br> *(RFM Modeling & Business Insights)* | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/username-teman1) |
+| **[Nama Teman 2]** | [NIM Teman 2] | **Researcher** <br> *(Literature Review & Documentation)* | [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:email-teman2@university.ac.id) |
+
+---
+
+### 🤝 Kontribusi & Pembagian Tugas
+
+* **Lead Developer:** Bertanggung jawab atas penulisan kode Python (`UniversalToolkit`), pengembangan GUI Tkinter, dan integrasi algoritma K-Means.
+* **Data Analyst:** Bertanggung jawab atas pemilihan dataset, validasi hasil *Clustering*, dan interpretasi grafik untuk Bab 4.
+* **Researcher:** Bertanggung jawab atas penyusunan Laporan Ilmiah (Bab 1-3), pencarian referensi jurnal, dan dokumentasi GitHub.
+
+---
+
+**© 2025 Universal Clustering Toolkit.** *Licensed under MIT License.*
