@@ -72,7 +72,8 @@ Toolkit ini telah diuji dan valid untuk struktur data berikut:
 
 ### 1. Antarmuka GUI & Terminal
 *(Masukkan screenshot terminal Anda yang ada ASCII Art di sini)*
-![Terminal Interface]()
+![Terminal Interface](https://github.com/user-attachments/assets/2852153c-e233-4dac-809b-8ecb7ec1df52)
+
 
 ### 2. Hasil Segmentasi Pelanggan (RFM)
 *(Masukkan screenshot grafik scatter plot OnlineRetail.csv)*
