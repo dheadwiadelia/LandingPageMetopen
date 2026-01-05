@@ -23,7 +23,7 @@ Berbeda dengan skrip analisis biasa, toolkit ini dilengkapi dengan fitur **Auto-
 
 ## 🛠️ Installation (Instalasi)
 
-Pastikan Anda telah menginstal Python 3.x. Ikuti langkah berikut untuk menjalankan toolkit di komputer lokal Anda:
+Pastikan anda telah menginstal Python 3.x. Ikuti langkah berikut untuk menjalankan toolkit di komputer lokal Anda:
 
 1.  **Clone Repository ini:**
     ```bash
