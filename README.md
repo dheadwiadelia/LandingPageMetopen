@@ -101,8 +101,8 @@ Proyek ini dikembangkan oleh **Kelompok AI-15** sebagai bagian dari tugas akhir 
 | Nama Anggota | NIM | Peran Utama | Link Profil |
 | :--- | :--- | :--- | :--- |
 | **[Nama Anda]** | [NIM Anda] | **Lead Developer** <br> *(System Architecture & Python Logic)* | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/RadjaAzukio) |
-| **[Nama Teman 1]** | [NIM Teman 1] | **Data Analyst** <br> *(RFM Modeling & Business Insights)* | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/username-teman1) |
-| **[Nama Teman 2]** | [NIM Teman 2] | **Researcher** <br> *(Literature Review & Documentation)* | [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:email-teman2@university.ac.id) |
+| **[Nama Teman 1]** | [NIM Teman 1] | **Data Analyst** <br> *(RFM Modeling & Business Insights)* | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/dheadwiadelia) |
+| **[Nama Teman 2]** | [NIM Teman 2] | **Researcher** <br> *(Literature Review & Documentation)* | [![GitHub](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:email-teman2@university.ac.id) |
 
 ---
 
